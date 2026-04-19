@@ -21,7 +21,7 @@ In the highly competitive e-commerce sector, treating all customers equally lead
 !!! [View my interactive dashboard on Tableau Public](https://public.tableau.com/shared/5GBWM2QWZ?:display_count=n&:origin=viz_share_link)!!!
   <img src="images/img.png" width="800" alt="RFM Dashboard">
 
-(The dashboard allows filtering data by RFM segments, analyzing revenue share, and dynamically exploring individual customer metrics).*
+(The dashboard allows filtering data by RFM segments, analyzing revenue share, and dynamically exploring individual customer metrics).
 
 ## Key Insights and Anomaly Detection
 During the Exploratory Data Analysis (EDA) and visualization phase, specific outliers ("Whales") were identified that require immediate business attention:
