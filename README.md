@@ -34,7 +34,7 @@ During the Exploratory Data Analysis (EDA) and visualization phase, specific out
   * **Recommendation:** Assign a dedicated Key Account Manager to provide VIP support, negotiate individual terms, and retain the customer in the long term.
   
 **Anomaly 2: The "Dropshipper / Bot"**
-  ![Uploading image.png…]()
+  <img width="965" height="367" alt="image" src="https://github.com/user-attachments/assets/1e21efeb-2968-4407-b59f-6bdb55bbb3e9" />
   * **Observation:** A single Customer ID made around 33,000 orders, but with a relatively low average order value.
   * **Business Solution:** This behavior clearly indicates a dropshipping model, an automated purchasing bot, or a technical glitch. 
   * **Recommendation:** Conduct an account audit. If it is a legitimate dropshipper, offer an official API integration or a special wholesale pricing structure.
