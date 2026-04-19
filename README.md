@@ -19,7 +19,8 @@ In the highly competitive e-commerce sector, treating all customers equally lead
 
 ## Interactive Dashboard
 !!! [View my interactive dashboard on Tableau Public](https://public.tableau.com/shared/5GBWM2QWZ?:display_count=n&:origin=viz_share_link)!!!
-  <img src="images/img.png" width="800" alt="RFM Dashboard">
+<img width="802" height="337" alt="image" src="https://github.com/user-attachments/assets/ddadce5e-863e-4f9b-b373-19b3302f784a" />
+
 
 (The dashboard allows filtering data by RFM segments, analyzing revenue share, and dynamically exploring individual customer metrics).
 
@@ -27,13 +28,13 @@ In the highly competitive e-commerce sector, treating all customers equally lead
 During the Exploratory Data Analysis (EDA) and visualization phase, specific outliers ("Whales") were identified that require immediate business attention:
 
 **Anomaly 1: The "Hidden B2B Partner"**
-  <img src="images/img_1.png" width="800" alt="Anomaly 1 B2B Partner">
+  <img width="965" height="367" alt="image" src="https://github.com/user-attachments/assets/97a0de97-8230-4e0c-8a2d-5ee106ba53f2" />
   * **Observation:** One specific customer generated $280,000 in revenue.
   * **Business Solution:** Most likely, this is a large wholesale buyer or a B2B partner, not a standard retail customer. 
   * **Recommendation:** Assign a dedicated Key Account Manager to provide VIP support, negotiate individual terms, and retain the customer in the long term.
   
 **Anomaly 2: The "Dropshipper / Bot"**
-  <img src="images/img_2.png" width="800" alt="Anomaly 2 Dropshipper"> 
+  ![Uploading image.png…]()
   * **Observation:** A single Customer ID made around 33,000 orders, but with a relatively low average order value.
   * **Business Solution:** This behavior clearly indicates a dropshipping model, an automated purchasing bot, or a technical glitch. 
   * **Recommendation:** Conduct an account audit. If it is a legitimate dropshipper, offer an official API integration or a special wholesale pricing structure.
